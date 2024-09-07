@@ -1,5 +1,8 @@
 HuggingFace
+langchain
 langchain_community
+langchain-openai
+langchain-core
 streamlit
 python-dotenv
 pypdf2
