@@ -3,6 +3,7 @@ langchain
 langchain_community
 langchain-openai
 langchain-core
+langchain-huggingface
 streamlit
 python-dotenv
 pypdf2
